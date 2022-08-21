@@ -256,24 +256,24 @@ img {
   background-color: var(--background-btn);
 }
 
+.peculiarities__text {
+  line-height: 1.71;
+}
+
 .antenna::before {
-  background-image: url(../images/antenna.png);
+  background-image: url("../images/antenna.png");
 }
 
 .clock::before {
-  background-image: url(../images/clock.png);
+  background-image: url("../images/clock.png");
 }
 
 .diagram::before {
-  background-image: url(../images/diagram.png);
+  background-image: url("../images/diagram.png");
 }
 
 .astronaut::before {
-  background-image: url(../images/astronaut.png);
-}
-
-.peculiarities__text {
-  line-height: 1.71;
+  background-image: url("../images/astronaut.png");
 }
 
 .service {
